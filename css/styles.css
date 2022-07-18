@@ -500,6 +500,8 @@ color: var(--background-color);
     padding-top: 20px;
     border: none;
     border-bottom: 1px solid #EEEEEE;
+    border-right: 1px solid #EEEEEE;
+    border-left: 1px solid #EEEEEE;;
 }
 
 
